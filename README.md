@@ -2,12 +2,12 @@
 <table>
   <tr>
     <th>
-      <p>
+      <p align="justify">
         Using a standard electret microphone and a preamplifier, noise levels are measured, and the data is received and processed by the ESP32. The readings are compared against limits set by international institutions and the Regional Inspectorate of Environment and Water, and displayed as a color scheme (green, yellow, red) on an addressable LED strip. At the same time, the data is sent via the MQTT protocol to an IoT platform. The device is powered directly from a power outlet, with a built-in step-down converter. The code includes OTA updates to ensure accessibility after the device is manufactured and the enclosure is sealed.
       </p>
     </th>
     <th>
-    <img height="1080" alt="Thingspeak" src="https://github.com/user-attachments/assets/58d024a4-051d-496f-beb5-7ead1bf4e355" />
+    <img height="1800" alt="Thingspeak" src="https://github.com/user-attachments/assets/58d024a4-051d-496f-beb5-7ead1bf4e355" />
     </th>
   </tr>
 </table>
